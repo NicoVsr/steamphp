@@ -1,0 +1,75 @@
+body
+{
+    background-color: #0f0f0f;
+    color: white;
+}
+body {
+    padding-top: 70px; /* Required padding for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
+
+}
+.portfolio-item {
+}
+
+footer {
+    margin: 50px 0;
+}
+.bo{
+    margin-top: 200px;
+}
+
+.input-group-addon
+{
+    background-color: rgb(50, 118, 177);
+    border-color: rgb(40, 94, 142);
+    color: rgb(255, 255, 255);
+}
+a.list-group-item{
+    background-color: #0f0f0f;
+    color: white;
+}
+.carousel{
+    margin-bottom: 50px;
+}
+.form-control:focus
+{
+    background-color: rgb(50, 118, 177);
+    border-color: rgb(40, 94, 142);
+    color: rgb(255, 255, 255);
+}
+.form-signup input[type="text"],.form-signup input[type="password"] { border: 1px solid rgb(50, 118, 177); }
+.panel-body{
+    background-color: #0f0f0f !important;
+}
+.form-control{
+    background-color: #575757;
+    color: white;
+}
+.panel-default{
+    border-color: #575757;
+}
+/****Profil****/
+.nomdujeu{
+    text-align: center;
+    margin-bottom: 25px;
+}
+.infosjeu{
+    background-color: #404040;
+    padding: inherit !important;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+
+.achats{
+    background-color: #575757;
+}
+.achats img{
+    margin-top: 15px;
+    margin-left: 15px;
+}
+.add{
+    margin-top: 30px;
+}
+.sup{
+    margin-top: 40px;
+}
